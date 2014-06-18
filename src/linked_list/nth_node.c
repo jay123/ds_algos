@@ -1,11 +1,5 @@
 /*Program to get the nth node of a linked list
 
-1. Initialize count = 0
-2. Loop through the link list
-     a. if count is equal to the passed index then return current
-         node
-     b. Increment count
-     c. change current to point to next of the current.
 */
 
 #include<stdio.h>
