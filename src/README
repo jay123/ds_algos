@@ -1,0 +1,41 @@
+Ds Algos problems:
+
+1) Strings
+2) Linked Lists
+3) Stacks
+4) Queues
+5) Sorting
+	a) Quicksort
+	b) Mergesort
+	c) Heapsort
+	d) Bubble Sort
+	e) Insertion Sort
+	f) Selection Sort
+	g) Bucket Sort
+	h) Radix Sort
+6) Hash Tables
+7) Trees
+	a) BST
+	b) B-Tree
+	c) Cartesian Tree
+	d) Red-Black Tree
+	e) Splay Tree
+	f) AVL Tree
+8) Heaps
+	a) Linked List (sorted)
+	b) Linked List (unsorted)
+	c) Binary Heap
+	d) Binomial Heap
+	e) Fibonacci Heap
+9) Graphs
+
+10) Searching
+	a) DFS
+	b) BFS
+	c) Binary search
+	d) Linear (Brute Force)
+	e) Shortest path by Dijkstra, using Min-heap as priority queue
+	f) Shortest path by Dijkstra, using an unsorted array as priority queue
+	g) Shortest path by Bellman-Ford
+11) Recursion
+
